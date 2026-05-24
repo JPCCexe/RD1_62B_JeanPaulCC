@@ -1,0 +1,2 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Avg FPS
+X-CLIP,0.2043,0.4075,0.2288,0.2395,6.4

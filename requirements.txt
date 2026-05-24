@@ -1,8 +1,0 @@
-numpy
-torch
-YOLOv5 
-ultralytics
-deep-sort-realtime
-opencv-python
-torchreid
-gdown

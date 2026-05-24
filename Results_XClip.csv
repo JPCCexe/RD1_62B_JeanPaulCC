@@ -1,0 +1,46 @@
+video_name,length_sec,num_predictions,accuracy,macro_precision,macro_recall,macro_F1,avg_fps,gt_actions,predicted_actions,scene
+0VOQC,27.88,46,0.0435,0.5,0.027,0.0513,7.36,eating;running,drinking;eating,Basement (A room below the ground floor)
+2PREF,24.96,88,0.0682,0.2609,0.2069,0.2308,6.62,cooking,cooking;opening door;walking;washing hands,Kitchen
+46GP8,24.83,70,0.3857,0.8182,0.8182,0.8182,6.81,cooking,cooking;washing hands;writing,Kitchen
+6EU06,30.67,129,0.2403,0.159,0.3333,0.2153,6.11,reading book;sitting;writing,eating;reading book;washing hands,Living room
+72JYK,23.12,87,0.2529,0.5,0.1264,0.2018,7.94,eating;sitting,eating;reading book;writing,Stairs
+78XZ9,31.79,91,0.9451,1.0,0.9451,0.9718,6.69,reading book,reading book,Basement (A room below the ground floor)
+8WJIR,34.71,126,0.1508,0.4008,0.1533,0.1274,6.41,drinking;sitting;watching tv,drinking;opening door;washing hands;watching tv,Bedroom
+BDFDE,31.54,61,0.3115,0.2639,0.5,0.3455,7.0,drinking;sitting,drinking;opening door;writing,Bedroom
+CBXVQ,33.83,97,0.299,0.7838,0.6444,0.7073,6.64,washing hands,cooking;washing hands,Pantry
+CUCBN,20.88,116,0.0,0.0,0.0,0.0,5.57,sitting;walking,drinking;lying down;reading book,Living room
+DOQ9Y,41.29,270,0.0,0.0,0.0,0.0,4.51,walking,cooking;drinking;eating;lying down;opening door;running;washing hands,Pantry
+E2TCA,34.67,191,0.4974,1.0,0.5163,0.681,4.04,drinking,drinking;reading book,Home Office / Study (A room in a house used for work)
+E6Q95,25.42,161,0.0062,0.3333,0.0083,0.0163,4.98,eating;sitting;watching tv,cooking;lying down;opening door;reading book;walking;watching tv,Living room
+F4BJJ,29.04,119,0.4958,0.5,0.4155,0.4538,6.25,reading book;running,lying down;reading book,Bedroom
+FXRMG,33.0,109,0.1651,0.4058,0.3897,0.3035,6.67,opening door;reading book;walking,cooking;eating;opening door;reading book,Bedroom
+G6MYM,30.58,172,0.0174,0.5,0.0341,0.0638,4.74,opening door;walking,cooking;eating;opening door;sitting;washing hands,Entryway (A hall that is generally located at the entrance of a house)
+H603E,32.33,117,0.8205,0.5,0.2433,0.2925,6.48,eating;reading book;sitting;writing,drinking;reading book;writing,Basement (A room below the ground floor)
+HDDU0,35.21,101,0.0,0.0,0.0,0.0,6.73,writing,cooking;drinking;reading book;washing hands,Kitchen
+HSSOZ,34.0,121,0.8264,0.9346,0.9615,0.9479,6.43,cooking,cooking;washing hands,Kitchen
+I8QJN,30.92,95,0.0,0.0,0.0,0.0,7.99,drinking;lying down,cooking;washing hands,Kitchen
+INQNU,18.46,5,0.0,0.0,0.0,0.0,16.94,drinking;sitting,drinking;eating,Bedroom
+IUW9N,30.29,104,0.0,0.0,0.0,0.0,6.88,walking,drinking;opening door;washing hands,Bathroom
+JSUF4,30.54,80,0.4625,1.0,0.4094,0.463,5.74,drinking;sitting,drinking;lying down;reading book;sitting;writing,Basement (A room below the ground floor)
+KRF68,30.33,89,0.0337,0.6,0.1875,0.2857,7.84,running,running;washing hands,Laundry room
+LI6LV,34.71,126,0.0079,1.0,0.0769,0.1429,6.47,drinking,drinking;washing hands,Bathroom
+M0DAY,24.83,70,0.0,0.0,0.0,0.0,7.06,running,,Closet / Walk-in closet / Spear closet
+MCQO5,31.58,138,0.0,0.0,0.0,0.0,4.51,drinking,drinking;opening door;writing,Bedroom
+MZOPX,36.46,128,0.0,0.0,0.0,0.0,6.41,sitting,drinking;washing hands;writing,Dining room
+OBTP8,31.08,95,0.2105,0.3333,0.4348,0.3774,6.1,opening door;walking,opening door;walking,Bedroom
+PN4MI,30.5,205,0.0244,0.3333,0.0131,0.0252,4.65,eating;reading book;sitting;writing,cooking;drinking;eating;lying down;watching tv;writing,Kitchen
+PSPMA,31.25,60,0.5167,0.6667,0.1722,0.2439,6.91,eating;sitting;watching tv,sitting;watching tv,Living room
+QGQGZ,32.92,184,0.1413,0.4333,0.4062,0.4194,5.19,opening door;walking,cooking;lying down;opening door;washing hands,Kitchen
+R1S1Z,21.67,164,0.0,0.0,0.0,0.0,3.92,sitting,cooking;drinking;eating;lying down;washing hands,Kitchen
+R2DA8,46.17,119,0.0168,1.0,0.05,0.0952,6.21,sitting,cooking;drinking;sitting;walking;washing hands;writing,Kitchen
+RCA3E,29.88,210,0.0571,0.2667,0.2553,0.2609,4.5,washing hands,cooking;drinking;lying down;reading book;washing hands,Bathroom
+S673O,33.92,89,0.4382,0.7361,0.2449,0.334,5.68,drinking;eating;lying down;sitting,drinking;eating;lying down;reading book;sitting,Living room
+S6MPZ,38.46,140,0.0,0.0,0.0,0.0,6.33,eating;sitting,cooking;drinking;lying down;writing,Home Office / Study (A room in a house used for work)
+TX020,21.54,115,0.0087,0.3333,0.0042,0.0082,5.01,running;sitting;walking,cooking;lying down;opening door;reading book;sitting,Garage
+VHIG7,27.88,100,0.0,0.0,0.0,0.0,6.6,eating,cooking;washing hands;writing,Basement (A room below the ground floor)
+VLE11,33.08,116,0.2759,0.3333,0.3333,0.3333,6.43,reading book;sitting;writing,cooking;lying down;reading book,Dining room
+W6QUC,31.0,94,0.117,1.0,0.117,0.2095,5.6,lying down,lying down;opening door;reading book;washing hands;watching tv;writing,Living room
+WEYV3,29.25,100,0.12,0.1818,0.4,0.25,6.57,eating;sitting,eating;reading book;writing,Home Office / Study (A room in a house used for work)
+X1R6D,23.88,78,0.859,0.4527,0.5,0.4752,7.26,walking;washing hands,opening door;washing hands,Bathroom
+X42YA,33.25,120,0.175,0.3971,0.1408,0.1859,6.74,opening door;running;sitting;walking,opening door;sitting,Entryway (A hall that is generally located at the entrance of a house)
+OVERALL,1343.6,5096,0.2043,0.4075,0.2288,0.2395,6.4,,,N=44
